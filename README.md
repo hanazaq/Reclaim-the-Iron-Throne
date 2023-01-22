@@ -1,5 +1,5 @@
 # Reclaim-the-Iron-Throne
-Flow Graph, Max Flow Ford Fulkerson Algorithm using time efficient data structure and Object-Oriented principles.
+Flow Graph, Max Flow Ford Fulkerson Algorithm using time and space efficient data structure and Object-Oriented principles.
 # About project
 Rhaenyra Targaryen, the first-born child of King Viserys I Targaryen, was considered the
 rightful heir to the Iron Throne. She was going to rule all the Westeros but her half-brother,
@@ -50,3 +50,4 @@ two cities.<br/>
 • Regions and roads (as pairs of vertices line by line) that Rhaenyra
 must send her armies to.
 <br/>
+
